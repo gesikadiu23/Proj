@@ -5,7 +5,8 @@ class Program
     {
         Low,
         Medium,
-        High
+        High,
+        VeryHigh
     }
 
     enum Months
