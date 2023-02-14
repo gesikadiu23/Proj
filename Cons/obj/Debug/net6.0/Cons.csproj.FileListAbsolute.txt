@@ -1,0 +1,15 @@
+C:\Users\gkadiu\source\repos\Cons\Cons\bin\Debug\net6.0\Cons.exe
+C:\Users\gkadiu\source\repos\Cons\Cons\bin\Debug\net6.0\Cons.deps.json
+C:\Users\gkadiu\source\repos\Cons\Cons\bin\Debug\net6.0\Cons.runtimeconfig.json
+C:\Users\gkadiu\source\repos\Cons\Cons\bin\Debug\net6.0\Cons.dll
+C:\Users\gkadiu\source\repos\Cons\Cons\bin\Debug\net6.0\Cons.pdb
+C:\Users\gkadiu\source\repos\Cons\Cons\obj\Debug\net6.0\Cons.csproj.AssemblyReference.cache
+C:\Users\gkadiu\source\repos\Cons\Cons\obj\Debug\net6.0\Cons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkadiu\source\repos\Cons\Cons\obj\Debug\net6.0\Cons.AssemblyInfoInputs.cache
+C:\Users\gkadiu\source\repos\Cons\Cons\obj\Debug\net6.0\Cons.AssemblyInfo.cs
+C:\Users\gkadiu\source\repos\Cons\Cons\obj\Debug\net6.0\Cons.csproj.CoreCompileInputs.cache
+C:\Users\gkadiu\source\repos\Cons\Cons\obj\Debug\net6.0\Cons.dll
+C:\Users\gkadiu\source\repos\Cons\Cons\obj\Debug\net6.0\refint\Cons.dll
+C:\Users\gkadiu\source\repos\Cons\Cons\obj\Debug\net6.0\Cons.pdb
+C:\Users\gkadiu\source\repos\Cons\Cons\obj\Debug\net6.0\Cons.genruntimeconfig.cache
+C:\Users\gkadiu\source\repos\Cons\Cons\obj\Debug\net6.0\ref\Cons.dll
